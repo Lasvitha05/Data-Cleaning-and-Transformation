@@ -2,7 +2,7 @@ This project involves transforming raw FIFA data into an industry-ready format f
 
 The project is open-ended, allowing for diverse approaches to data preparation and analysis. Below, you’ll find a detailed explanation of my approach to processing the dataset, along with the key steps involved.
 
-#Features
+Features
 
 Raw Data Processing: Handling missing values, data inconsistencies, and formatting issues.
 
@@ -12,7 +12,7 @@ Data Cleaning: Ensuring the dataset is free of duplicates, outliers, and irrelev
 
 Industry-Ready Output: Delivering a clean and structured dataset ready for further analysis or visualization.
 
-#Tools and Libraries Used
+Tools and Libraries Used
 
 pandas: For data manipulation and cleaning.
 
